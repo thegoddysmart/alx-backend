@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" 
+"""
 This module implements pagination for a dataset of popular baby names.
 """
 
